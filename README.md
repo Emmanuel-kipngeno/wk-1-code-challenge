@@ -1,6 +1,6 @@
 # week1-code -challenge
 
-## Author - Emmanuel kipngeno
+
 
 ## Project Description 
   This project allows you to see the grades of student ,the speed detector and the net salary calculator.
